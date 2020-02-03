@@ -13,9 +13,14 @@ This lecture imparts the basic principles about laser scanning and its respectiv
 Airborne, terrestrial and mobile mapping laser scanning: scan geometry and technical characteristics. Low-, intermediate and high-level tasks. Representation of 3D rotations: matrix, angles, axis and angle, quaternions. Estimation of similarity transforms and the iterative closest point algorithm. Estimation and segmentation of lines and planes. Region growing, RANSAC and MSAC, Hough transform, scanline grouping. Scanning and segmentation in robotics applications. Decision trees and random forests for point cloud classification. Markov chains and Markov chain Monte Carlo methods and their use for high-level interpretation. In the exercises, selected algorithms will be programmed.
 
 ## Repository Contents
-1. Unit A - Motion model & landmark detection
-2. Unit B - Using Sensor Data to improve robot's state
-3. Unit C - 
+1. Unit A
+  * Motion model
+  * Landmark detection
+2. Unit B
+  * Feature-based localization
+  * Featureless localization, Iterative Closest Point (ICP) algorithm
+3. Unit C
+  * Filtering
 4. Unit D - 
 5. Unit E - 
 6. Unit F - 
