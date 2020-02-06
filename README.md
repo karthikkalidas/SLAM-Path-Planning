@@ -21,11 +21,11 @@ Airborne, terrestrial and mobile mapping laser scanning: scan geometry and techn
   * Featureless localization, Iterative Closest Point (ICP) algorithm
 3. Unit C
   * Filtering
-4. Unit D - 
-5. Unit E - 
-6. Unit F - 
-7. Unit G - 
-8. Unit PP - 
+4. Unit D
+5. Unit E 
+6. Unit F 
+7. Unit G 
+8. Unit PP 
 
 
 
