@@ -21,13 +21,19 @@ Airborne, terrestrial and mobile mapping laser scanning: scan geometry and techn
   * Featureless localization, Iterative Closest Point (ICP) algorithm
 3. Unit C
   * Filtering
+  * The Recursive Bayes Filter
 4. Unit D
+  * Kalman Filter
+  * Extended Kalman Filter
 5. Unit E 
+  * Particle Filter
 6. Unit F 
+  * SLAM
 7. Unit G 
-8. Unit PP 
-
-
-
+  * Particle Filter SLAM (FastSLAM)
+8. Unit PP (Path Planning)
+  * Dijktra's Algorithm
+  * A* Algorithm
+  * State-space method
 
 
