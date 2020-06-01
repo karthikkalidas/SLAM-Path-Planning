@@ -9,6 +9,8 @@ By Prof. Clauss Brenner, University of Leibniz. Repository contains solved exerc
 ## Aim
 This lecture imparts the basic principles about laser scanning and its respective application areas. After successful completion of the lecture, students are able to explain and apply selected techniques and algorithms for the low, intermediate and high-lever processing of laser scanning data
 
+![](/slam.gif)
+
 ## Lecture Contents
 Airborne, terrestrial and mobile mapping laser scanning: scan geometry and technical characteristics. Low-, intermediate and high-level tasks. Representation of 3D rotations: matrix, angles, axis and angle, quaternions. Estimation of similarity transforms and the iterative closest point algorithm. Estimation and segmentation of lines and planes. Region growing, RANSAC and MSAC, Hough transform, scanline grouping. Scanning and segmentation in robotics applications. Decision trees and random forests for point cloud classification. Markov chains and Markov chain Monte Carlo methods and their use for high-level interpretation. In the exercises, selected algorithms will be programmed.
 
